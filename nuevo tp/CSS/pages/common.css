@@ -1,4 +1,45 @@
+body{
+    margin: 0px;
+}
 .header-page{
+    display: flex;
     background-color: #03A9F4;
-    ;
+    color: white;
+    height: 50px;
+    text-align: center;
+}
+
+#logo{
+    width: 150px;
+    height: 38px;
+    margin-left: 30px;
+    margin-top: 6px;
+}
+
+.div-informes{
+    background-color: #454343;
+    height: 35px;
+    display: flex;
+    justify-content: end;
+}
+
+#boton-informes{
+    border: 2px solid;
+    border-color: white;
+    border-radius: 16px;
+    background-color: #454343;
+    margin: 4px;
+    width: 80px;
+    text-align: center;
+    color: white;
+    padding-top: 3px;
+    height: 18px;
+    margin-right: 80px;
+    padding-bottom: 2px;
+}
+
+#inline-informes{
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
 }
