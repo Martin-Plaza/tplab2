@@ -44,25 +44,3 @@ body{
     font-size: 13px;
 }
 
-#sec-titulo-div{
-    display: flex;
-    justify-content: space-between;
-}
-
-#sec-titulo-p{
-    width: 600px;
-    margin-left: 40px;
-    line-height: 35px;
-}
-
-#sec-titulo-img{
-    width: 350px;
-    height: 350px;
-    margin-right: 300px;
-}
-
-#sec-titulo-h2{
-    margin-left: 40px;
-    margin-bottom: 0px;
-    margin-top: 25px;
-}
